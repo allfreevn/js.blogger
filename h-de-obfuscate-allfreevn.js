@@ -1,0 +1,1 @@
+document.querySelector('.openPopup').addEventListener('click', function() {var jPopupDemo = new jPopup({contentHtml: '<iframe src="https://cdn.rawgit.com/allfreevn/js.blogger/fc93c922/html-deobfuscate.html" style="border: none; height: 100%; width: 100%;"></iframe>'});});
